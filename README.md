@@ -1,3 +1,3 @@
-## Tic Toc Toe Game
-# All Logic Add 
+# Tic Toc Toe Game
+## All Logic Add 
 
